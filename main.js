@@ -8,7 +8,7 @@ const height = window.innerHeight;
 const margin = { left: 60, right: 20 };
 const marginChart = { top: 20, bottom: 30 };
 const marginMap = { top: 20, bottom: 30 };
-const chartHeight = height * 0.5;
+const chartHeight = height * 0.3;
 const dotRadius = 3;
 const countryRadius = 50;
 
